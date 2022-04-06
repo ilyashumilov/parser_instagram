@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jji9t@f$r9%v#7j8ze85i5y@p1n!-jm*it74w+k5p4iyy@2yl*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['instaparserapi.herokuapp.com']
+ALLOWED_HOSTS = ['instaparserapi.herokuapp.com','127.0.0.1']
 
 
 # Application definition
